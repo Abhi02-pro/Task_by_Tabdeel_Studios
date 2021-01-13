@@ -1,0 +1,79 @@
+.navbar {
+    background-color: #19194d;
+}
+.banner img {
+    width: 100%;
+}
+.container-xxl {
+    padding: 4% 2% 2% 2%;
+}
+.colored {
+    background-color: #d9d9f2;
+}
+.video {
+    padding: 2% 6%;
+}
+.video p {
+    padding: 20%;
+    color: #fff;
+    background-color: #19194d;
+    height: 200px;
+    width: 350px;
+    font-weight: bold;
+}
+.box h5 {
+    padding: 2%;
+    color: #fff;
+    background-color: #19194d;
+    height: 50px;
+    width: 250px;
+    font-weight: bold;
+}
+.box p {
+    text-align: left;
+    color: #19194d;
+    font-weight: bold;
+}
+.why-us p {
+    padding: 1% 7%;
+}
+.mission p {
+    padding: 0% 15%;
+}
+.vision p {
+    padding: 0% 15%;
+}
+#circle {
+    width: 150px;
+    height: 150px;
+    background-color: #ccd9ff;
+    border-radius: 50%;
+}
+.contact-us button {
+    background-color: #19194d;
+    color: #fff;
+}
+.contact-us p {
+    text-align: center;
+}
+.reach-us i {
+    text-align-last: end;
+    color: #19194d;
+}
+footer {
+    background-color: #19194d;
+    padding-top: 1%;
+}
+footer p {
+    color: #fff;
+    transform: translateX(120px);
+}
+footer ul {
+    display: inline-flex;
+    list-style-type: none;
+}
+footer li {
+    position: relative;
+    padding: 0% 6%;
+    color: #fff;
+}
